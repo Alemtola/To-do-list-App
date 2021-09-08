@@ -13,7 +13,7 @@
 * CSS3
 * jQuery
 
-##User Goals
+## User Goals
 
 The user will be able to:
 
